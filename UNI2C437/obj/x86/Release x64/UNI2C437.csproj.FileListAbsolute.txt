@@ -1,0 +1,6 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\x86\Release x64\UNI2C437.exe.config
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\x86\Release x64\UNI2C437.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\x86\Release x64\UNI2C437.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\obj\x86\Release x64\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\obj\x86\Release x64\UNI2C437.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\obj\x86\Release x64\UNI2C437.pdb

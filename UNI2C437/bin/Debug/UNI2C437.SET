@@ -1,0 +1,13 @@
+﻿UNI2C437 PROGRAM SETTING FILE
+
+CREATED IN 2023/6/10
+
+----------------------------------------------
+
+CONVMODE:$: 0
+OPERMODE:$: 0
+DOSUBDIR:$: 1
+DOBAK:$: 1
+BAKFPATH:$: C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\Debug\UNI2C437.BAK
+DONAMLN:$: 4
+CONVSPEC:$: _

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\x64\Debug\UNI2C437.exe.config
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\x64\Debug\UNI2C437.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\bin\x64\Debug\UNI2C437.pdb
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\obj\x64\Debug\UNI2C437.exe
+C:\Documents and Settings\Pavel.DE-M6700\Desktop\UNI2C437\UNI2C437\UNI2C437\obj\x64\Debug\UNI2C437.pdb
+G:\GIT\UNI2C437\UNI2C437\bin\x64\Debug\UNI2C437.exe.config
+G:\GIT\UNI2C437\UNI2C437\obj\x64\Debug\UNI2C437.exe
+G:\GIT\UNI2C437\UNI2C437\obj\x64\Debug\UNI2C437.pdb
