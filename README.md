@@ -8,3 +8,5 @@ Program is able to convert extended ASCII (Czech, German, Polish, Russian and ot
 Note: I am no linguist and the conversion to English transliteration won't be 100% per linguistic rules. However, it should be understandable, the main goal is to allow loading of such files in foreign languages under MS-DOS.
 
 Program works in Windows 2000 and newer. Requires .NET framework 3.5
+
+**Creating backup of your files/directories prior converting is highly encouraged, as they might be overwritten/renamed/damaged during the conversion process.**
